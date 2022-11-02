@@ -68,7 +68,7 @@ df
 ```
 15. Как добавить пользователя `testuser` в группу `testgroup`
 ```sh
-# ЭТО НЕ ПОЛНЫЙ ОТВЕТ
+gpasswd -a testuser testgroup
 usermod -a -G testgroup testuser
 ```
 16. Как сделать владельцем файла `tfile` пользователя `tuser` и группу `tgroup`
