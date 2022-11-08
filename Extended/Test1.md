@@ -14,3 +14,5 @@ cat filel < file2
 ```
 
 3 - 10
+Ответы...
+![Screenshots](https://github.com/ZyFun/RedOS_Tests/blob/main/img/hz.jpeg?raw=true)
