@@ -19,4 +19,4 @@
 ```
 
 5. Посмотрите журналы и найдите на каком  юните таймера systemd  установлен бит запуска. В ответ впишите полный путь до файла таймера. Ответ будет в виде /usr...timer
-![Screenshots](https://github.com/ZyFun/RedOS_Tests/blob/main/img/hz2.jpeg?raw=true)
+<br/> ![Screenshots](https://github.com/ZyFun/RedOS_Tests/blob/main/img/hz2.jpeg?raw=true)
