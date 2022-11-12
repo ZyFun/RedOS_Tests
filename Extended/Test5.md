@@ -14,7 +14,7 @@
 ```
 
 4. На сервере есть папка с заданиями /home/test. Прочитайте задание в папке /home/test/vopros13. Ответ впишите в поле ответа.
-![Screenshots](https://github.com/ZyFun/RedOS_Tests/blob/main/img/hz2.jpeg?raw=true)
+<br/> ![Screenshots](https://github.com/ZyFun/RedOS_Tests/blob/main/img/hz2.jpeg?raw=true)
 
 5. На сервере есть папка с заданиями /home/test. Прочитайте задание в папке /home/test/vopros12. Ответ впишите в поле ответа.
 ```sh
